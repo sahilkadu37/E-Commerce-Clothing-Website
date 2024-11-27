@@ -159,8 +159,9 @@ A clean and structured comparison layout.
 Use of contrasting colors or icons to emphasize key differences between products.
 
 
+![image](https://github.com/user-attachments/assets/8bf7a48e-ff3f-4cb9-9e1e-e92b86bec2ea)
 
-![Uploading image.png…]()
+
 
 
 
