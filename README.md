@@ -102,6 +102,36 @@ Clean layout with a visually appealing background and consistent color scheme al
 ![image](https://github.com/user-attachments/assets/afdc69d3-f3e6-419a-bb1a-40670bcdb1ca)
 
 
+Memory updated
+Here’s a description of your Login Page for the README file:
+
+Login Page Overview
+The login page is a crucial part of the e-commerce website, providing users with secure and straightforward access to their accounts.
+
+Key Features:
+User Authentication:
+
+Allows users to log in with their registered credentials (username or first name and password).
+Ensures security with proper input validation.
+Responsive Design:
+
+The login page is optimized for various devices, including desktops, tablets, and mobile phones, ensuring a seamless experience for all users.
+Clear Layout:
+
+A simple and user-friendly interface with intuitive input fields and a prominent "Login" button.
+Includes a "Forgot Password?" link for easy account recovery.
+Sign-Up Option:
+
+A direct link to the Register Page for new users who wish to create an account.
+Design Highlights:
+Minimalistic and modern design with a clean layout.
+Consistent color scheme aligned with the overall website branding.
+Typography that ensures readability and professionalism.
+
+
+![Uploading image.png…]()
+
+
 
 
 
