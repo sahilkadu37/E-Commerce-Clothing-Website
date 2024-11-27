@@ -160,6 +160,8 @@ Use of contrasting colors or icons to emphasize key differences between products
 
 
 ![image](https://github.com/user-attachments/assets/8bf7a48e-ff3f-4cb9-9e1e-e92b86bec2ea)
+![image](https://github.com/user-attachments/assets/fdd07e80-b0cf-4bfa-a4c1-fb5e23907802)
+
 
 
 
