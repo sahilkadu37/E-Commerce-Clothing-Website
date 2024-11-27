@@ -49,6 +49,37 @@ The page layout is grid-based, ensuring a clean and responsive design that works
 ![image](https://github.com/user-attachments/assets/77ce0e5f-669c-4e05-8330-a22af5d2b54f)
 
 
+Promotional and New Arrivals Section Overview
+This page combines promotional offers and new arrivals, providing users with an engaging and interactive shopping experience. Here's an overview of its design and features:
+
+1. Deal of the Day Section
+Highlights two limited-time offers:
+Collection New Modern Design and Women Clothing.
+Includes:
+Discounted prices with original prices struck out (e.g., "$139.40 $170.90").
+A countdown timer (Days, Hours, Minutes, Seconds) creating urgency for purchases.
+Eye-catching Shop Now buttons for quick navigation to the product pages.
+High-quality images emphasize the appeal of featured products.
+2. New Arrivals Section
+Displays the latest products in a neatly organized grid layout.
+Features include:
+Product images with a professional and modern design.
+Price details (current price with discounts).
+Add to Cart and Compare buttons for user convenience.
+Tag labels such as Hot or percentage discounts (e.g., "-30%") to highlight trending items.
+3. Design Highlights
+Typography: Clean, bold text for headers and product information ensures readability.
+Color Palette: A calming blue and green theme gives a fresh, modern feel.
+Navigation: Includes carousel functionality (next/previous navigation buttons) for a better browsing experience.
+Purpose
+This section aims to attract customers with time-sensitive offers while showcasing new arrivals, boosting engagement and sales.
+![image](https://github.com/user-attachments/assets/c0bdc335-5c00-42a9-89d2-a4f33e742f21)
+
+
+
+
+
+
 
 
 .
