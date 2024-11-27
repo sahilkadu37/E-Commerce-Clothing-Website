@@ -76,6 +76,31 @@ This section aims to attract customers with time-sensitive offers while showcasi
 ![image](https://github.com/user-attachments/assets/c0bdc335-5c00-42a9-89d2-a4f33e742f21)
 
 
+Footer Overview
+The footer of the e-commerce website is designed to provide users with quick access to essential information and features:
+
+Contact Information:
+
+Includes phone numbers, email addresses, and location details, making it easy for customers to reach out for support or inquiries.
+Quick Links:
+
+Contains navigation links to important sections of the website such as Shop, About Us, Privacy Policy, and Terms & Conditions, improving site accessibility.
+Social Media Integration:
+
+Links to popular social media platforms (e.g., Facebook, Instagram, Twitter), allowing users to stay connected and updated on the brand.
+Newsletter Subscription:
+
+A subscription field for users to enter their email and stay informed about new deals, products, and updates.
+Copyright Notice:
+
+Displays a copyright message, ensuring legal and professional compliance.
+Design Features:
+
+Clean layout with a visually appealing background and consistent color scheme aligned with the website’s overall theme.
+
+
+![image](https://github.com/user-attachments/assets/afdc69d3-f3e6-419a-bb1a-40670bcdb1ca)
+
 
 
 
