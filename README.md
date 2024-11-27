@@ -199,6 +199,13 @@ Backend:
 PHP: Handles server-side functionality, such as user authentication and product management.
 MySQL: Stores user, product, and order data.
 
+Future Enhancements
+Advanced Search Functionality: Implement an even more robust search bar with suggestions and filtering by brand, size, and rating.
+Customer Reviews: Allow users to submit reviews and ratings on products they've purchased, helping others make informed decisions.
+Discounts & Promotions: Implement promo codes, loyalty points, and special seasonal sales.
+Multi-language & Currency Support: Add language and currency options to cater to international customers.
+Real-Time Inventory: Automatically update product availability and stock status to reflect real-time changes.
+
 
 
 
