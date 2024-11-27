@@ -129,7 +129,8 @@ Consistent color scheme aligned with the overall website branding.
 Typography that ensures readability and professionalism.
 
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/dbb95daa-d258-4f10-9db0-7ad365b63ca2)
 
 
 
