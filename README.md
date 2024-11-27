@@ -162,7 +162,42 @@ Use of contrasting colors or icons to emphasize key differences between products
 ![image](https://github.com/user-attachments/assets/8bf7a48e-ff3f-4cb9-9e1e-e92b86bec2ea)
 ![image](https://github.com/user-attachments/assets/fdd07e80-b0cf-4bfa-a4c1-fb5e23907802)
 
+E-Commerce Website
+Overview
+This is a fully functional e-commerce website where users can browse through different product categories, compare multiple products, and manage their shopping cart for seamless online shopping. The platform is designed with a user-friendly interface, secure login, and a smooth checkout experience.
 
+Features
+Home Page
+Displays promotional banners and featured product categories (e.g., Hot Deals, New Arrivals).
+Users can easily navigate to different product sections via a clear and responsive navigation bar.
+Highlights top-selling or trending products with attractive visuals.
+Login/Register
+Secure user authentication system with email/username and password.
+Registration page allows new users to create an account with easy validation.
+Forgot password option to recover account access.
+Product Listing
+Products are neatly categorized (e.g., clothing, accessories, shoes) with relevant filters.
+Each product includes high-quality images, a brief description, and the price.
+Options to add products to the cart, wishlist, or compare them.
+Compare Section
+Allows users to select multiple products and compare them side by side based on features, price, and ratings.
+Simple interface to help users make informed decisions before purchasing.
+Shopping Cart
+Displays all the selected items with their details like name, price, and quantity.
+Users can update quantities, remove items, or proceed to checkout.
+Dynamic price updates based on changes in the cart.
+Footer
+Contains important links such as About Us, Contact Us, Privacy Policy, and Terms & Conditions.
+Displays social media icons for easy access to your business’s social profiles.
+Newsletter subscription form for users to receive updates on new products and promotions.
+Technologies Used
+Frontend:
+HTML: For structure and content layout.
+CSS: For styling, ensuring responsiveness and visually appealing design.
+JavaScript: For interactive elements like product comparison and cart management.
+Backend:
+PHP: Handles server-side functionality, such as user authentication and product management.
+MySQL: Stores user, product, and order data.
 
 
 
