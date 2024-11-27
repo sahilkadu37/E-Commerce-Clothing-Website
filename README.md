@@ -22,6 +22,7 @@ Color Scheme: Uses a soft green and white theme for a fresh, welcoming feel.
 Typography: Bold, modern fonts highlight key messages like promotions and headings.
 Responsive Layout: Designed for smooth functionality on various devices.
 
-![Uploading Screenshot 2024-11-27 101701.png…]()
+![image](https://github.com/user-attachments/assets/c0395ef4-c523-4338-ab9b-22e0a8cfda4a)
+
 
 .
